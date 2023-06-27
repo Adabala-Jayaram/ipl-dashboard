@@ -1,0 +1,30 @@
+.latest-match-container {
+  background-color: #1e293b;
+  width: 90%;
+}
+.latest-match-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+}
+.team-name {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+.match-date {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 15px;
+}
+.venue {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 15px;
+}
+.completing-team {
+  font-family: 'Bree Serif';
+  color: white;
+  font-size: 15px;
+}
